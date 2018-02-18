@@ -30,6 +30,7 @@ Initialized empty Git repository in /Users/michael/learngit/.git/
 不幸的是，Microsoft的Word格式是二进制格式，因此，版本控制系统是没法跟踪Word文件的改动的，前面我们举的例子只是为了演示，如果要真正使用版本控制系统，就要以纯文本方式编写文件。
 
 因为文本是有编码的，比如中文有常用的GBK编码，日文有Shift_JIS编码，如果没有历史遗留问题，强烈建议使用标准的UTF-8编码，所有语言使用同一种编码，既没有冲突，又被所有平台所支持。
+<<<<<<< HEAD
 
 干点什么不能看您的发号码阿迪手机号爱人回家 接爱她就我是杨富
 https://github.com/y1445442305/design-resource.git
@@ -44,3 +45,5 @@ Wikis provide a place in your repository to lay out the roadmap of your project,
 
 
 
+=======
+>>>>>>> parent of 3568f18... iOS
