@@ -32,3 +32,15 @@ Initialized empty Git repository in /Users/michael/learngit/.git/
 因为文本是有编码的，比如中文有常用的GBK编码，日文有Shift_JIS编码，如果没有历史遗留问题，强烈建议使用标准的UTF-8编码，所有语言使用同一种编码，既没有冲突，又被所有平台所支持。
 
 干点什么不能看您的发号码阿迪手机号爱人回家 接爱她就我是杨富
+https://github.com/y1445442305/design-resource.git
+Welcome to the hello-world wiki!
+Wikis provide a place in your repository to lay out the roadmap of your project, show the current status, and document software better, together.
+
+
+
+
+
+
+
+
+
